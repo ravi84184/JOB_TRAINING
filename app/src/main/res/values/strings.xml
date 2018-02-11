@@ -4,5 +4,10 @@
 
     <string name="app_name">JOB TRAINING</string>
 
+    <string name="facebook_app_id">144234606240602</string>
+    <string name="fb_login_protocol_scheme">fb144234606240602</string>
+
+
+
 
 </resources>

@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 startActivity(new Intent(this, CanvasMainActivity.class));
                 break;
             case R.id.btnIntegration:
-                startActivity(new Intent(this, CanvasMainActivity.class));
+                startActivity(new Intent(this, FacebookIntegrationActivity.class));
                 break;
         }
 
